@@ -37,7 +37,7 @@ app.post("/", function(req, res,) {
 
   const options = {
     method: "POST",
-    auth: "kieran:2d1aa21f55e1936c4d0ad65369e86dd3-2us2"
+    auth: "kieran:2d1aa21f55e1936c4d0ad65369e86dd3-us2"
   };
 
 
